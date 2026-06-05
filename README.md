@@ -23,7 +23,7 @@ Passionate about building practical technology solutions for real-world problems
   ## 🎬 Movie Recommendation System
   Scalable recommendation platform leveraging collaborative filtering and Spark to deliver personalized content recommendations from 500K+ user interactions.
 
-  # 📄 E-commerce Policy Assistant
+  ## 📄 E-commerce Policy Assistant
   LLM-powered RAG application that converts complex policy documents into explainable, citation-backed answers with sub-second retrieval and enterprise-grade reliability.
 
 # 🌐 Connect With Me
