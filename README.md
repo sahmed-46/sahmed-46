@@ -32,7 +32,7 @@ Passionate about building practical technology solutions for real-world problems
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahmed-46&show_icons=true)
 
 ### 🌐 Connect With Me
 - LinkedIn: https://linkedin.com/in/syed-omar-ahmed-81595312b
