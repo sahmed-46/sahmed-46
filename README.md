@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, 
+# My name is Syed Omar Ahmed 👋
 
-<!--
-**sahmed-46/sahmed-46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently pursuing MS Business Analytics Student @ California State University, East Bay
 
-Here are some ideas to get you started:
+Passionate about building practical technology solutions for real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Buisness Analytics student
+- 💻 Interested in Data Science, AI, and Machine Learning
+- 🌱 Currently expanding my skills in modern development tools and frameworks
+- 🔍 Always exploring new technologies and best practices
+- 🤝 Open to collaboration on interesting projects
+
+### 🛠️ Technologies & Tools
+- Python
+- Java
+- HTML & CSS
+- Git & GitHub
+- SQL
+
+### 📂 Featured Projects
+  
+  # 🚦 Traffic Sign Classification
+  Production-ready computer vision system for traffic sign recognition with OOD detection, achieving faster inference through ONNX optimization and reliable deployment on GCP.
+
+  # 🎬 Movie Recommendation System
+  Scalable recommendation platform leveraging collaborative filtering and Spark to deliver personalized content recommendations from 500K+ user interactions.
+
+  # 📄 E-commerce Policy Assistant
+  LLM-powered RAG application that converts complex policy documents into explainable, citation-backed answers with sub-second retrieval and enterprise-grade reliability.
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+### 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/syed-omar-ahmed-81595312b
+- GitHub: https://github.com/sahmed-46
+
+---
