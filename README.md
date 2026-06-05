@@ -1,6 +1,5 @@
 ## Hi, My name is Syed Omar Ahmed 👋
 ### Currently pursuing MS Business Analytics Student @ California State University, East Bay
-
 Passionate about building practical technology solutions for real-world problems.
 
 # 🚀 About Me
@@ -18,7 +17,6 @@ Passionate about building practical technology solutions for real-world problems
 - SQL
 
 # 📂 Featured Projects
-  
   ## 🚦 Traffic Sign Classification
   Production-ready computer vision system for traffic sign recognition with OOD detection, achieving faster inference through ONNX optimization and reliable deployment on GCP.
 
