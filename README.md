@@ -1,7 +1,5 @@
-# Hi, 
-# My name is Syed Omar Ahmed 👋
-
-## Currently pursuing MS Business Analytics Student @ California State University, East Bay
+## Hi, My name is Syed Omar Ahmed 👋
+### Currently pursuing MS Business Analytics Student @ California State University, East Bay
 
 Passionate about building practical technology solutions for real-world problems.
 
